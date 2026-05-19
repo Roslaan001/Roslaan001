@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m **Abdulwahab Abdulsomad Olayiwola** — a Cloud & DevOps Engineer in training, passionate about building practical, scalable solutions across cloud, automation, AI, and modern infrastructure.
+I’m **Abdulwahab Abdulsomad Olayiwola** — a Cloud/DevOps, SRE, and DevSecOps Engineer, passionate about building practical, scalable solutions across cloud, automation, AI, and modern infrastructure.
 
 I’m a **3MTT Cohort 3 fellow (Cloud Computing track) and an Altschool Africa graduate**, I actively work on real-world projects involving:
 
@@ -25,8 +25,6 @@ I’m a **3MTT Cohort 3 fellow (Cloud Computing track) and an Altschool Africa g
 
 ## What I’m Working Toward
 
-- Becoming a **Cloud & DevOps Engineer**  
-- Landing internship and junior engineering roles  
 - Building production-ready pipelines, cloud architectures, and AI-powered tools  
 
 ---
@@ -41,7 +39,7 @@ I joke a lot, and I don't play with food
 
 Open to:
 
-- Cloud/DevOps projects  
+- Cloud/DevOps, SRE, and DevSecOps roles  
 - AI/ML integrations  
 - Automation challenges  
 - Open-source contributions  
