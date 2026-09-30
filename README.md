@@ -196,11 +196,23 @@ I'm interested in collaborating on:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Roslaan001&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roslaan001&show_icons=true&theme=blueberry&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roslaan001&layout=compact&theme=blueberry&hide_border=true" height="180"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Roslaan001&theme=blueberry&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roslaan001&theme=blueberry&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roslaan001&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roslaan001&show_icons=true&theme=blueberry&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roslaan001&layout=compact&theme=blueberry&hide_border=true" height="180"/>
+</p>
 
 ---
 
