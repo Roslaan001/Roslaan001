@@ -197,21 +197,15 @@ I'm interested in collaborating on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roslaan001&show_icons=true&theme=blueberry&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roslaan001&layout=compact&theme=blueberry&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roslaan001&theme=blueberry&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Roslaan001&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roslaan001&show_icons=true&theme=blueberry&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roslaan001&layout=compact&theme=blueberry&hide_border=true" height="180"/>
+  <img src="https://ghchart.rshah.org/Roslaan001" alt="Roslaan001's contribution graph" />
 </p>
 
 ---
